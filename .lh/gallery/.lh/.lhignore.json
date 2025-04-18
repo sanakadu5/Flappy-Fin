@@ -1,0 +1,18 @@
+{
+    "sourceFile": "gallery/.lh/.lhignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1726656067753,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1726656067753,
+            "name": "Commit-0",
+            "content": ""
+        }
+    ]
+}
